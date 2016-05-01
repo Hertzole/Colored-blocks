@@ -1,0 +1,19 @@
+tile.test_block.name=Test Block
+tile.wood_colored.white.name=White Wood Planks
+tile.wood_colored.orange.name=Orange Wood Planks
+tile.wood_colored.magenta.name=Magenta Wood Planks
+tile.wood_colored.light_blue.name=Light Blue Wood Planks
+tile.wood_colored.yellow.name=Yellow Wood Planks
+tile.wood_colored.lime.name=Lime Wood Planks
+tile.wood_colored.pink.name=Pink Wood Planks
+tile.wood_colored.gray.name=Gray Wood Planks
+tile.wood_colored.silver.name=Light Gray Wood Planks
+tile.wood_colored.cyan.name=Cyan Wood Planks
+tile.wood_colored.purple.name=Purple Wood Planks
+tile.wood_colored.blue.name=Blue Wood Planks
+tile.wood_colored.brown.name=Brown Wood Planks
+tile.wood_colored.green.name=Green Wood Planks
+tile.wood_colored.red.name=Red Wood Planks
+tile.wood_colored.black.name=Black Wood Planks
+
+itemGroup.colorBlocksTab=Colored Blocks

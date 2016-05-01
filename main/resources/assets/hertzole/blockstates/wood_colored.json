@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "type=white": { "model":"hertzole:wood_white" },
+        "type=orange": { "model":"hertzole:wood_orange" },
+        "type=magenta": { "model":"hertzole:wood_magenta" },
+        "type=light_blue": { "model":"hertzole:wood_light_blue" },
+        "type=yellow": { "model":"hertzole:wood_yellow" },
+        "type=lime": { "model":"hertzole:wood_lime" },
+        "type=pink": { "model":"hertzole:wood_pink" },
+        "type=gray": { "model":"hertzole:wood_gray" },
+        "type=silver": { "model":"hertzole:wood_silver" },
+        "type=cyan": { "model":"hertzole:wood_cyan" },
+        "type=purple": { "model":"hertzole:wood_purple" },
+        "type=blue": { "model":"hertzole:wood_blue" },
+        "type=brown": { "model":"hertzole:wood_brown" },
+        "type=green": { "model":"hertzole:wood_green" },
+        "type=red": { "model":"hertzole:wood_red" },
+        "type=black": { "model":"hertzole:wood_black" }
+    }
+}

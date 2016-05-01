@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "hertzole:blocks/wood_colored_black"
+    }
+}
