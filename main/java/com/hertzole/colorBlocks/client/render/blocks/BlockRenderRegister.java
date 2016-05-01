@@ -18,13 +18,12 @@ public final class BlockRenderRegister {
 	private static final String colors[] = {"white", "orange", "magenta", "light_blue", "yellow", "lime", "pink", "gray", "silver", "cyan", "purple", "blue", "brown", "green", "red", "black"};
 	
 	public static void preInit(){
-		registerBlockRenderer();
 	}
 	
 	public static void registerBlockRenderer(){
 		reg(ModBlocks.testBlock);
-		//registerBlocks(ModBlocks.coloredWood, "wood_colored");
-		ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(ModBlocks.coloredWood), 0, new ModelResourceLocation(modid + ":wood_colored#type=white"));
+		registerBlocks(ModBlocks.coloredWood, "wood_colored");
+		//ModelLoader.setCustomModelResourceLocation(Item.getItemFromBlock(ModBlocks.coloredWood), 0, new ModelResourceLocation(modid + ":wood_colored#type=white"));
 	}
 	
 	private static void registerBlocks(Block block, String prefix){
